@@ -33,4 +33,4 @@ function creatingElements(domElements, container){
 
 const createdDiv = creatingElements(divCreation, mainContainer)
 
-// creatingElements(creatingHeadingElement, createdDiv)
+creatingElements(creatingHeadingElement, createdDiv)
