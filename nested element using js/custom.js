@@ -13,7 +13,7 @@ const creatingHeadingElement = {
     attributes: {
         class: 'main-heading'
     },
-    innerText: "Hello! I'm Header"
+    innerText: "Hi buddy how are you"
 }
 
 function creatingElements(domElements, container){
